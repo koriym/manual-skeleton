@@ -13,3 +13,6 @@ docker pull jekyll/jekyll:pages
 ```
 ./bin/serve.sh
 ```
+### Demo
+
+https://manual-skeleton-demo.github.io/
