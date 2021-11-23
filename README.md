@@ -1,6 +1,6 @@
 ## manual-skeleton
 
-This is a manual website template based on [http://bearsunday.github.io/](http://bearsunday.github.io/).
+A manual website template based on [http://bearsunday.github.io/](http://bearsunday.github.io/).
 
 ### Install Jekyll for GitHub page
 
