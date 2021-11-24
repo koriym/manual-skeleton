@@ -2,7 +2,7 @@
 
 A manual website template based on [http://bearsunday.github.io/](http://bearsunday.github.io/).
 
-<img width="688" alt="manual-skelton" src="https://user-images.githubusercontent.com/529021/143033482-6cbd55dd-e094-4bdf-a216-bd12618e94f9.png">
+<img width="550" alt="demo screen" src="https://user-images.githubusercontent.com/529021/143152197-6a988981-87bb-4da4-8a5b-f9abbe8dfe60.png">
 
 ## Getting Started
 
