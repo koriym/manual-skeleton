@@ -25,4 +25,4 @@ docker pull jekyll/jekyll:pages
 ```
 ## Demo
 
-https://manual-skeleton-demo.github.io/
+https://user-manual-demo.github.io/
