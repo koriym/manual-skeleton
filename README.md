@@ -12,17 +12,12 @@ A manual website template based on [http://bearsunday.github.io/](http://bearsun
 
 3. git clone your new repo.
 
-## Install Jekyll for GitHub page
-
-```
-docker pull jekyll/jekyll:pages
-```
-
 ## Start local testing server
 
 ```
 ./bin/serve.sh
 ```
+
 ## Demo
 
 https://user-manual-demo.github.io/
