@@ -15,7 +15,7 @@ A manual website template based on [http://bearsunday.github.io/](http://bearsun
 ## Start local testing server
 
 ```
-docker compose up
+./bin/serve.sh
 ```
 
 ## Demo
